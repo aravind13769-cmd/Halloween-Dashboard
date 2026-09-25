@@ -1,6 +1,18 @@
 # 🎃 Halloween Visitor Analysis
 
-This project presents a simple **Halloween Visitor Analysis Dashboard** created to understand visitor trends and yearly variations.
+## 📊 About the Project
+
+This project analyzes Halloween visitor data from **2008 to 2014**.
+
+The dashboard shows visitor trends, yearly visitor counts, peak visitors, lowest visitors, and forecasting.
+
+## 📈 Key Information
+
+- **Total Visitors:** 4,147
+- **Peak Year:** 2011
+- **Highest Visitors:** 869
+- **Lowest Visitors:** 391
+- **Data Period:** 2008–2014
 
 ## 📊 Dashboard
 
@@ -8,42 +20,21 @@ This project presents a simple **Halloween Visitor Analysis Dashboard** created 
 
 ## 🔍 Key Insights
 
-- **Total Visitors:** 4,147
-- **Peak Year:** 2011
-- **Peak Visitors:** 869
-- **Least Visitors:** 391
-- **Highest visitor count:** 869 visitors in 2011
-- **Lowest visitor count:** 391 visitors in 2013
-
-## 📈 Analysis Included
-
-The dashboard contains:
-
-- Visitor Trend Analysis
-- Visitors Strength by Year
-- Forecasting Data
-- Year-by-Year Visitor Variation
-
-## 📅 Data Period
-
-The analysis covers visitor data from **2008 to 2014**.
+- Visitor numbers increased from 2008 to 2011.
+- **2011** had the highest number of visitors with **869**.
+- Visitor numbers decreased after 2011.
+- **2013** had the lowest visitors with **391**.
+- Visitor numbers slightly increased again in 2014.
 
 ## 🛠️ Tools Used
 
-- Data Analysis
+- Tableau
+- Microsoft Excel
 - Data Visualization
-- Dashboard Design
+- Data Analysis
 - Forecasting
 
-## 🎯 Purpose
+## 👨‍💻 Author
 
-The main purpose of this project is to analyze Halloween visitor patterns, identify peak and low visitor years, and understand changes in visitor numbers over time.
-
-## 📁 Files
-
-- `Halloween.png` – Dashboard image
-- `README.md` – Project description
-
----
-
-⭐ **Halloween Visitor Analysis Dashboard**
+**Aravind**  
+MBA – Business Analytics & Applied Finance
