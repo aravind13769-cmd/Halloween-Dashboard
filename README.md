@@ -18,6 +18,20 @@ The dashboard shows visitor trends, yearly visitor counts, peak visitors, lowest
 
 ![Halloween Visitor Analysis Dashboard](halloween-visitor-analysis.png)
 
+## 📁 Project Structure
+
+Halloween-Visitor-Analysis/
+│
+├── README.md
+├── Dataset/
+│   └── halloween_visitor_data.xlsx
+│
+├── Dashboard/
+│   └── halloween_visitor_analysis.png
+│
+└── Documentation/
+    └── Project_Report.pdf
+
 ## 🔍 Key Insights
 
 - Visitor numbers increased from 2008 to 2011.
