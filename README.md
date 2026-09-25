@@ -26,14 +26,6 @@ The dashboard shows visitor trends, yearly visitor counts, peak visitors, lowest
 - **2013** had the lowest visitors with **391**.
 - Visitor numbers slightly increased again in 2014.
 
-## 🛠️ Tools Used
-
-- Tableau
-- Microsoft Excel
-- Data Visualization
-- Data Analysis
-- Forecasting
-
 ## 👨‍💻 Author
 
 **Aravind**  
