@@ -16,7 +16,7 @@ The dashboard shows visitor trends, yearly visitor counts, peak visitors, lowest
 
 ## 📊 Dashboard
 
-halloween-visitor-analysis.png
+![Halloween Visitor Analysis Dashboard](halloween-visitor-analysis.png)
 
 ## 🔍 Key Insights
 
